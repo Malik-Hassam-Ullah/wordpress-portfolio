@@ -111,3 +111,4 @@ A professional, high-performance, and elegant portfolio website for **Malik Hass
 * **LinkedIn:** [Malik Hassam](https://linkedin.com/in/malik-hassam-6383b1287)
 * **Email:** hassammalik638@gmail.com
 * **Phone / WhatsApp:** +92 306 5520204
+
